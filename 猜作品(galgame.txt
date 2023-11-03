@@ -75,7 +75,6 @@ AIR @Key
 雪境迷途遇仙踪 @Lump of Sugar
 恋爱成双
 樱色之云＊绯色之恋
-原神
 Blue Archive
 月之彼方再相逢 @tone work's
 初恋 1/1 @tone work's
@@ -83,6 +82,7 @@ Blue Archive
 星空列车与白的旅行
 來自昏暗的时间尽头 @MOONSTONE
 三色绘恋
+原神
 变态监狱 @Qruppo
 Heaven Burns Red (红烧天堂)
 沙耶之歌 @Nitro+
@@ -100,5 +100,4 @@ PARQUET @Yuzusoft
 月姬 @TYPE-MOON
 NieR:Automata @SQUARE ENIX
 Blue Reflection @Koei Tecmo
-魔女的夜宴 @Yuzusoft
 Clover Days @ALcot
