@@ -1,41 +1,39 @@
 #topic=Galgamer 猜作品
 #language=zh-hans
 #description=猜作品名称
-少女之剑与秘密协奏曲
-创作彼女的恋爱方程式
+少女之剑与秘密协奏曲 @ensemble
+创作彼女的恋爱方程式 @Aino+Links
 交响乐之雨
-星辰恋曲的白色永恒
+星辰恋曲的白色永恒 @FAVORITE
 RE:D Cherish @CRYSTALiA
 冥契的牧神节
-命运石之门
-无尽的平安夜
+命运石之门 @5pb.
+无尽的平安夜 @minori
 追忆夏色年华 @MOONSTONE
 CLANNAD @Key
 Muv-luv
-千刃刀涛
-君与彼女与彼女之恋
+千刃刀涛 @August
+君与彼女与彼女之恋 @Nitro+
 传颂之物
 美少女万华镜
 混沌之子
-天津罪
+天津罪 @Purple
 隙间樱花与谎言都市
 美好的每一天 @ケロQ
 纸上的魔法使
 电波消逝之日
-RIDDLE JOKER
+RIDDLE JOKER @Yuzusoft
 妹调教日记
 保健室的老师与肥皂泡中毒的助手
 白色相簿
 女装神话
 日在校园
 樱之社+净梦者 @MOONSTONE
-ATRI @Frontwing
-GINKA @Frontwing
 Rewrite
-秽翼的尤斯蒂娅
-樱花萌放
+秽翼的尤斯蒂娅 @August
+樱花萌放 @FAVORITE
 五彩斑斓的世界
-苍空彼方四重奏
+苍之彼方四重奏 @sprite
 9-NINE
 常轨脱离 Creative
 天之少女
@@ -45,7 +43,7 @@ Rewrite
 未来广播与人工鸽
 羁绊辉耀的恋之伊吕波 @CRYSTALiA
 水葬银币的伊斯特里亚
-青鸟 @紫社
+青鸟 @Purple
 野良与皇女与流浪猫之心
 景之海的艾佩莉娅
 爱上火车
@@ -55,7 +53,7 @@ Rewrite
 与我恋爱的废柴小恶魔
 时钟机关的 Leyline
 幸运草的约定
-樱之诗
+樱之诗 @枕
 魔女的恋爱日记
 近月少女的礼仪
 大图书馆的牧羊人
@@ -73,10 +71,9 @@ AIR @Key
 不要践踏天使的羽毛
 天结神缘
 青夏轨迹 @GIGA
-异想魅惑
 甜蜜女友
 雪境迷途遇仙踪 @Lump of Sugar
-恋爱成雙
+恋爱成双
 樱色之云＊绯色之恋
 原神
 Blue Archive
@@ -102,3 +99,6 @@ PARQUET @Yuzusoft
 悠久之翼 @minori
 月姬 @TYPE-MOON
 NieR:Automata @SQUARE ENIX
+Blue Reflection @Koei Tecmo
+魔女的夜宴 @Yuzusoft
+Clover Days @ALcot
