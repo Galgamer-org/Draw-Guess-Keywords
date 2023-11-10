@@ -92,7 +92,6 @@ Fate @TYPE-MOON
 Ambitious Mission @SAGA PLANETS
 星之梦 @Key
 星之终途 @Key
-PARQUET @Yuzusoft
 月影魅像-解放之羽- @Applique
 初音岛系列 @CIRCUS
 献给神明般的你 @CUBE
@@ -121,6 +120,10 @@ flowers @Innocent grey
 虚之少女 @Innocent grey
 壳之少女 @Innocent grey
 海市蜃楼之馆
+十一月的理想乡
+青空下的加缪
+缘之空
+盛开的钢琴之森下 
 伊吕波 @Blue Archive
 伊织 @Blue Archive
 亚子 @Blue Archive
