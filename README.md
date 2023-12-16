@@ -1,6 +1,6 @@
 # Galgamer 妳畫我猜關鍵詞 Repo
 
-![image](https://github.com/sena-himeno/Draw-Guess_words/assets/66236255/4af8af3d-8837-47ef-95f3-41fdbfceac03)
+![Cover](https://github.com/Galgamer-org/Draw-Guess-Keywords/assets/66236255/77160337-ac28-448e-ae68-15164801a111)
 
 這是一個你畫我猜的關鍵詞倉庫，目前🈶️猜作品名和猜角色名兩個列表．
 
@@ -75,3 +75,10 @@
 ### 非 Galgame 的遊戲名
 
 同理，這部分的內容當前有：[原神,NieR:Automata @SQUARE ENIX,Blue Reflection @Koei Tecmo]
+
+
+## 歷史作品
+
+施工中，，，
+
+![image](https://github.com/sena-himeno/Draw-Guess_words/assets/66236255/4af8af3d-8837-47ef-95f3-41fdbfceac03)
