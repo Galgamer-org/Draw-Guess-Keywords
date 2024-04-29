@@ -1,5 +1,7 @@
 # Galgamer 妳畫我猜關鍵詞 Repo
 
+妳畫我猜 Word list code： ZX2ELEYELN
+
 ![Cover](https://github.com/Galgamer-org/Draw-Guess-Keywords/assets/66236255/77160337-ac28-448e-ae68-15164801a111)
 
 這是一個你畫我猜的關鍵詞倉庫，目前🈶️猜作品名和猜角色名兩個列表．
