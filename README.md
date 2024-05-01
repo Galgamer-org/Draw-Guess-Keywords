@@ -2,7 +2,7 @@
 
 妳畫我猜 Word list code： ZX2ELEYELN
 
-![Cover](https://github.com/Galgamer-org/Draw-Guess-Keywords/assets/66236255/77160337-ac28-448e-ae68-15164801a111)
+![Cover](https://github.com/Galgamer-org/Draw-Guess-Keywords/assets/66236255/e9fbc884-7e8e-4b71-b6a3-01e181b9a76c)
 
 這是一個你畫我猜的關鍵詞倉庫，目前🈶️猜作品名和猜角色名兩個列表．
 
