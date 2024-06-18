@@ -1,6 +1,6 @@
 # Galgamer 妳畫我猜關鍵詞 Repo
 
-妳畫我猜 Word list code： ZX2ELEYELN
+妳畫我猜 Word list code： WDNWXBNWCF
 
 ![Cover](https://github.com/Galgamer-org/Draw-Guess-Keywords/assets/66236255/e9fbc884-7e8e-4b71-b6a3-01e181b9a76c)
 
@@ -63,7 +63,7 @@
 有一些特徵明顯相對明顯，它們通常有著廣為人知的角色綽號之類的，它的存在大大降低了繪畫難度。
 你的繪畫內容不應該出現以下批註的內容
 
-- ATRI 蘿蔔子 (居然有人真的隨手畫蘿蔔 然後箭頭指向它 標註著高性能....) 
+- ATRI 蘿蔔子 (居然有人真的隨手畫蘿蔔 然後箭頭指向它 標註著高性能....) (絕對不是推薦畫法😁)
 - 混沌之子 禮物盒 (你也不想看到有人就畫幾個抽象的禮物盒吧)
 
 ## 非Galgame關鍵詞說明
