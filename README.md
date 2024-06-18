@@ -1,6 +1,6 @@
 # Galgamer 妳畫我猜關鍵詞 Repo
 
-妳畫我猜 Word list code： ZX2ELEYELN
+妳畫我猜 Word list code： WDNWXBNWCF
 
 ![Cover](https://github.com/Galgamer-org/Draw-Guess-Keywords/assets/66236255/e9fbc884-7e8e-4b71-b6a3-01e181b9a76c)
 
@@ -57,7 +57,7 @@
 - 柚子社的全部作品
 - GINKA
 
-### 黑名單邊緣的作品
+### 黑名單邊緣的作品(絕對不是推薦畫法😁)
 
 
 有一些特徵明顯相對明顯，它們通常有著廣為人知的角色綽號之類的，它的存在大大降低了繪畫難度。
