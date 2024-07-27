@@ -1,9 +1,6 @@
 #topic=Galgamer 猜作品
 #language=zh-hans
 #description=猜作品名称
-青城/アオイシロ　@SUCCESS
-餓殍：明末千里行 @Zerocreation
-樱之刻 －在樱花之森下漫步- @Makura
 少女之剑与秘密协奏曲 @ensemble
 创作彼女的恋爱方程式 @Aino+Links
 交响乐之雨
@@ -18,7 +15,7 @@ Muv-luv
 千刃刀涛 @August
 君与彼女与彼女之恋 @Nitro+
 传颂之物
-美少女万华镜
+美少女万华镜 @ωstar
 混沌之子
 天津罪 @Purple
 隙间樱花与谎言都市
@@ -27,14 +24,14 @@ Muv-luv
 电波消逝之日
 妹調教日记
 保健室的老师与肥皂泡中毒的助手
-白色相簿
-女装神话
-日在校园
+白色相簿 @Leaf
+女装神话 
+日在校园 @Overflow
 樱之社+净梦者 @MOONSTONE
-Rewrite
+Rewrite @Key
 秽翼的尤斯蒂娅 @August
 樱花萌放 @FAVORITE
-五彩斑斓的世界
+五彩斑斓的世界 @FAVORITE
 苍之彼方四重奏 @sprite
 9-NINE
 常轨脱离 Creative
@@ -59,37 +56,35 @@ Rewrite
 近月少女的礼仪
 大图书馆的牧羊人
 初雪樱花
-Eden* @中二社
+Eden* @minori
 混沌之脑
 爱因斯坦携爱敬上
 天结神缘 @e社
 放学后的灰姑娘
 拔作岛 @Qruppo
-SPPL @中二社
+SPPL @minori
 晴霁之后定是菜花盛开的好天气
 AIR @Key
 我们没有翅膀
 不要践踏天使的羽毛
 天结神缘
 青夏轨迹 @GIGA
-甜蜜女友
+甜蜜女友 
 雪境迷途遇仙踪 @Lump of Sugar
 恋爱成双
-樱色之云＊绯色之恋
-Blue Archive
+樱色之云＊绯色之恋 @Cabbage Soft
 月之彼方再相逢 @tone work's
 初恋 1/1 @tone work's
 银色、遥远 @tone work's
 星空列车与白的旅行
 來自昏暗的时间尽头 @MOONSTONE
-三色绘恋
-原神
+三色绘恋 (国产)
 变态监狱 @Qruppo
 Heaven Burns Red (红烧天堂)
 沙耶之歌 @Nitro+
 告別回忆 無垢少女 (秋之回忆 8)
 Fate @TYPE-MOON
-龙姬混～日子 @Whirlpo ol
+龙姬混～日子 @Whirlpool
 Ambitious Mission @SAGA PLANETS
 星之梦 @Key
 星之终途 @Key
@@ -117,28 +112,28 @@ ISLAND @FrontWing
 夏天的谎言 @Light
 秋天的谎言 @Light
 冬天的谎言 @Light
-flowers @Innocent grey
+Flowers @Innocent grey
 虚之少女 @Innocent grey
 壳之少女 @Innocent grey
 海市蜃楼之馆
 十一月的理想乡
-青空下的加缪
-缘之空
+青空下的加缪 @KAI-SOFT
+缘之空 
 盛开的钢琴之森下
 车轮之国 向日癸的少女
 多娜多娜-一起来干坏事吧
 奇异恩典·圣夜的小镇
-魔法使之夜
-g弦上的魔王
-ever17
-刻痕3(国产)
+魔法使之夜 @TYPE-MOON
+G弦上的魔王 AKABEiSOFT2
+Ever17 @KID
+刻痕3 (国产)
 交错频道
-SWAN SONG（死挽歌） @ Le.Chocolat
+SWAN SONG（死挽歌） @Le.Chocolat
 YU-NO在这世界尽头咏唱爱的少女
 闪钢的克拉里亚斯
 LAMUNATION!  @WhitePowder
 萨特（Saleté） @Soiree
-FLIP＊FLOP@DiGination
+FLIP＊FLOP @DiGination
 秘密游戏 杀手皇后
 熠熠星光魔物娘
 冻京 @Nitro
@@ -150,7 +145,19 @@ The Caligula Effect: Overdose
 寒蝉鸣泣之时
 NORN9 命运九重奏
 薄櫻鬼 @Idea Factory
-红线@SUCCESS
-蝶之毒华之锁
+红线 @SUCCESS
+蝶之毒华之锁 @アロマリエ
 我的超级现充生活
-Dies irae ~Acta est Fabula~(神怒之日)
+青城/アオイシロ　@SUCCESS
+餓殍：明末千里行 @Zerocreation
+樱之刻 －在樱花之森下漫步- @Makura
+恋狱 ～月狂病～@Innocent grey
+anemoi @Key
+制服女友 @ENTERGRAM
+原神 (国产)
+鸣潮 (国产)
+崩坏-星穹铁道 (国产)
+绝区零 (国产)
+尘白禁域 (国产)
+放学后的灰姑娘 @HOOKSOFT
+Secret Love (仮) @HOOKSOFT
