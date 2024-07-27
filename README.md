@@ -89,6 +89,6 @@
 
 https://galgamer.moe/event/draw-guess
 
-![Cover](https://galgamer.moe/site-assets/metadata/draw-guess.png)
+![Cover](https://galgamer.moe/site-assets/metadata/draw-guess-2.png)
 
 <!--- ![Cover](https://github.com/sena-himeno/Draw-Guess_words/assets/66236255/4af8af3d-8837-47ef-95f3-41fdbfceac03) --->
