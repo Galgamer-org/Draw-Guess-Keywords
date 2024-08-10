@@ -34,7 +34,7 @@ Rewrite @Key
 五彩斑斓的世界 @FAVORITE
 苍之彼方四重奏 @sprite
 9-NINE
-常轨脱离 Creative
+常轨脱离 Creative @MadoSoft
 天之少女
 金辉恋曲四重奏 @SAGA PLANETS
 夏日口袋 @Key
@@ -125,7 +125,7 @@ Flowers @Innocent grey
 奇异恩典·圣夜的小镇
 魔法使之夜 @TYPE-MOON
 G弦上的魔王 @AKABEiSOFT2
-Ever17 @KID
+Ever17 [時空輪迴系列] @KID
 刻痕3 (国产)
 交错频道
 SWAN SONG（死挽歌） @Le.Chocolat
@@ -162,5 +162,6 @@ anemoi @Key
 放学后的灰姑娘 @HOOKSOFT
 Secret Love (仮) @HOOKSOFT
 Bang Dream 少女樂團派對 @Bushiroad
-オトメ世界の歩き方 @ORTHROS
+乙女世界的生存之道 @ORTHROS
 巧可甜恋 @Cabbage Soft
+天選庶民的真命之選 @MadoSoft
