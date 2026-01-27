@@ -1,6 +1,6 @@
 # Galgamer 妳畫我猜關鍵詞 Repo
 
-妳畫我猜 Word list code： WDNWXBNWCF
+妳畫我猜 Word list code： 61I7TQ2UUE
 
 ![Cover](https://github.com/Galgamer-org/Draw-Guess-Keywords/assets/66236255/e9fbc884-7e8e-4b71-b6a3-01e181b9a76c)
 
